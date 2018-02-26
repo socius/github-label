@@ -1,0 +1,70 @@
+[
+     {
+        "name":"Can't Reproduce",
+        "color":"ffffff",
+    },
+    {
+        "name":"Help Wanted",
+        "color":"1AF3A3",
+    },
+    {
+        "name":"Is Duplicate",
+        "color":"ffffff",
+    },
+    {
+        "name":"Is Invalid",
+        "color":"e6e6e6",
+    },
+    {
+        "name":"Priority: High",
+        "color":"F31A1A",
+    },
+    {
+        "name":"Priority: Low",
+        "color":"B0F31A",
+    },
+    {
+        "name":"Priority: Medium",
+        "color":"F3BA1A",
+    },
+    {
+        "name":"Priority: OMGOMGOMG!!!",
+        "color":"FF69B4",
+    },
+    {
+        "name":"Status: Feedback Wanted",
+        "color":"4AD7E0",
+    },
+    {
+        "name":"Status: In Progress",
+        "color":"4F7DF9",
+    },
+    {
+        "name":"Status: On Hold",
+        "color":"E8E0B9",
+    },
+    {
+        "name":"Status: Planned",
+        "color":"5319e7",
+    },
+    {
+        "name":"Type: Bug",
+        "color":"84b6eb",
+    },
+    {
+        "name":"Type: Enhancement",
+        "color":"ee0701",
+    },
+    {
+        "name":"Type: Feature",
+        "color":"0052cc",
+    },
+    {
+        "name":"Type: Performance",
+        "color":"77E31D",
+    },
+    {
+        "name":"Type: Question",
+        "color":"43CCFF",
+    }
+]
